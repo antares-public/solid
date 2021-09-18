@@ -4,6 +4,11 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "solid_s": "node solid_s.js",
+    "solid_o": "node solid_o.js",
+    "solid_l": "node solid_l.js",
+    "solid_i": "node solid_i.js",
+    "solid_d": "node solid_d.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
